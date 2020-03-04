@@ -1,3 +1,3 @@
-# angular-6a2tfv
+# Angular Best Practices
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-6a2tfv)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-pro-best-practices)
